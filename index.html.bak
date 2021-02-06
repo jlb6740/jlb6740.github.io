@@ -6,10 +6,15 @@
 </head>
 
 <body>
+<h1>
     <p>Performance Trends Demo</p>
-    <a href="Aarch64/">Aarch64</a>
-    <a href="X64/">X64</a>
-
+</h1>
+<h2>
+    X64:  <a href="X64/">Trend</a>  <a href="X64_results/shootout.html">Shootout Charts</a> 
+    <br>
+    <br>
+    Aarch64: <a href="Aarch64/">Trend</a>  <a href="Aarch64_results/shootout.html">Shootout Charts</a>
+</h2>
 </body>
 
 </html>
